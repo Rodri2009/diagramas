@@ -1,6 +1,6 @@
-<mxfile modified="2020-07-28T02:34:07.853Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="zJIkvhwRnha0RE8M3xq6" version="13.5.3" type="github">
+<mxfile modified="2020-07-28T02:50:30.519Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="yuw_6sbi8G0LPK8-DKAF" version="13.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1233" dy="1453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,13 +35,13 @@
           <mxGeometry x="10" y="50" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="07X4Mi-C6yP-hprFEXMb-24" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-30" width="730" height="300" as="geometry" />
+          <mxGeometry x="20" y="-190" width="730" height="300" as="geometry" />
         </mxCell>
         <mxCell id="07X4Mi-C6yP-hprFEXMb-25" value="Asistencia" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="07X4Mi-C6yP-hprFEXMb-24">
           <mxGeometry x="5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="07X4Mi-C6yP-hprFEXMb-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.distribution_group;" vertex="1" parent="07X4Mi-C6yP-hprFEXMb-24">
-          <mxGeometry x="112" y="60" width="58" height="59" as="geometry" />
+        <mxCell id="07X4Mi-C6yP-hprFEXMb-42" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;" vertex="1" parent="07X4Mi-C6yP-hprFEXMb-24">
+          <mxGeometry x="60" y="80" width="78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="07X4Mi-C6yP-hprFEXMb-15" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-820" width="210" height="180" as="geometry" />
@@ -62,8 +62,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="07X4Mi-C6yP-hprFEXMb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="07X4Mi-C6yP-hprFEXMb-30" target="07X4Mi-C6yP-hprFEXMb-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="07X4Mi-C6yP-hprFEXMb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="07X4Mi-C6yP-hprFEXMb-30" target="07X4Mi-C6yP-hprFEXMb-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="161.00000000000023" y="-130.00000000000023" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="07X4Mi-C6yP-hprFEXMb-34" value="Fichaje" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="07X4Mi-C6yP-hprFEXMb-32" target="07X4Mi-C6yP-hprFEXMb-33">
           <mxGeometry x="-0.8196" relative="1" as="geometry">
